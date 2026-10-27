@@ -1,994 +1,1194 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",A24 OpciÃ³n 1
-http://138.59.227.20:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="-",00  DIRECTV SPORTS
-http://181.224.255.210:8001/play/a0s8/index.m3u8
-#EXTINF:-1 group-title="-",3.4 America TV HD
+
+# ==========================================
+# CANALES DE AIRE / ARGENTINA
+# ==========================================
+#EXTINF:-1 group-title="Canales de Aire / Argentina",3.4 America TV HD
 http://181.224.255.210:8001/play/a0pj/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a04w.png",4 FUTBOL NACIONAL
-http://45.5.117.57:8200/play/a04w/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a04z.png",7 FOX SPORTS (premium)
-http://45.5.117.57:8200/play/a04z/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a050.png",8 LA LIGA
-http://45.5.117.57:8200/play/a050/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0e6.png",A+ GUA
-http://45.5.117.57:8200/play/a0e6/index.m3u8
-#EXTINF:-1 group-title="-",A&E HD
-http://45.173.231.22:8000/play/a085/index.m3u8
-#EXTINF:-1 group-title="-",A3SERIES
-http://200.115.120.1:8000/play/ca0101/index.m3u8
-#EXTINF:-1 group-title="-",ABC TV
-http://138.59.227.20:8000/play/a0g6/index.m3u8
-#EXTINF:-1 group-title="-",ADULTOS
-http://200.115.120.1:8000/play/ca99/index.m3u8
-#EXTINF:-1 group-title="-",1838 AE HD
-http://38.56.111.14:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="-",AE Mundo
-http://45.173.231.22:8000/play/a090/index.m3u8
-#EXTINF:-1,AMC
-http://45.188.229.33:8000/play/a1jn/index.m3u8
-#EXTINF:-1 group-title="-",AMC Series
-http://45.173.231.22:8000/play/a0ct/index.m3u8
-#EXTINF:-1 group-title="-",AMERICA SPORT TV
-http://45.179.152.42:8000/play/a03f
-#EXTINF:-1 group-title="-",00 - America TV HD
+#EXTINF:-1 group-title="Canales de Aire / Argentina",00 - America TV HD
 http://38.56.111.14:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="-",AMERICA TV ARG
+#EXTINF:-1 group-title="Canales de Aire / Argentina",AMERICA TV ARG
 http://45.179.152.42:8000/play/a006
-#EXTINF:-1 group-title="-",Animal Planet
-http://45.173.231.22:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="-",AXN
-http://45.173.231.22:8000/play/a09j/index.m3u8
-#EXTINF:-1 group-title="-",AXN Latin America - p
-http://190.128.214.97:64333/play/a071/index.m3u8
-#EXTINF:-1 group-title="-",BANDAMAX
-http://200.115.120.1:8000/play/ca84/index.m3u8
-#EXTINF:-1,BBC News
-http://45.188.229.33:8000/play/a1e9/index.m3u8
-#EXTINF:-1 group-title="-",BBC World
-http://190.108.83.69:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="-",BETHEL
-http://181.224.255.210:8001/play/a0fv/index.m3u8
-#EXTINF:-1 group-title="-",BETHEL TV
-http://45.173.231.22:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="-",BRAZZERS TV
-http://200.115.120.1:8000/play/ca98/index.m3u8
-http://181.209.80.115:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="-",C9N
-http://45.173.231.22:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="-",C9N Digital
-http://138.59.227.20:8000/play/a0e6/index.m3u8
-#EXTINF:-1,CABLE NOTICIAS
-http://181.78.82.130:8000/play/a0rz/index.m3u8
-#EXTINF:-1 group-title="-",CABLENOTICIAS HD
-http://186.33.57.100:8000/play/a27o/index.m3u8
-#EXTINF:-1,Cadena A HD
-http://158.172.155.130:8000/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="-",Canal Sony HD
-http://45.185.11.126:8000/play/a0an/index.m3u8
-#EXTINF:-1,Canal TUVES
-http://45.188.229.33:8000/play/a1le/index.m3u8
-#EXTINF:-1 group-title="-",Canal Uno
-http://45.173.231.22:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="-",Canal UOL HD
-http://45.185.11.126:8000/play/a0a4/index.m3u8
-#EXTINF:-1 group-title="-",CINE AR  / IRD T 5
-http://45.179.152.42:8000/play/a003
-#EXTINF:-1 group-title="-",CINE CANAL
-http://45.179.152.42:8000/play/a002
-#EXTINF:-1,Cine Familiar HD
-http://181.78.82.130:8000/play/a0ro/index.m3u8
-#EXTINF:-1 group-title="-",CINE LATINO
-http://200.115.120.1:8000/play/ca029/index.m3u8
-#EXTINF:-1 group-title="-",CINE MEXICANO
-http://200.115.120.1:8000/play/ca083/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0gp.png",CINE PREMIUM
-http://45.5.117.57:8200/play/a0gp/index.m3u8
-#EXTINF:-1 group-title="-",Cine.AR
-http://181.209.80.115:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="-",CINE_LATINO_MIC
-http://38.210.105.10:8000/play/a0ax/index.m3u8
-#EXTINF:-1 group-title="-",2ENC1 - CINECANAL
-http://190.128.214.97:64333/play/a03e/index.m3u8
-#EXTINF:-1 group-title="-",CINECLICK
-http://200.115.120.1:8000/play/ca051/index.m3u8
-#EXTINF:-1 group-title="-",Cinema Platino
-http://200.115.120.1:8000/play/ca130/index.m3u8
-#EXTINF:-1 group-title="-",Cinemax
-http://45.173.231.22:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="-",City TV
-http://45.173.231.22:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="-",ciudad magazine
-http://181.209.80.115:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0e8.png",CLAN
-http://45.5.117.57:8200/play/a0e8/index.m3u8
-#EXTINF:-1 group-title="-",Claro Cinema
-http://45.173.231.22:8000/play/a055/index.m3u8
-#EXTINF:-1,CLARO SPORT
-http://38.65.175.84:8000/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="-",Claro Sports
-http://45.173.231.22:8000/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a05m.png",Claro Sports 1 HD
-http://45.5.117.57:8200/play/a05m/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a05n.png",Claro Sports 2 HD
-http://45.5.117.57:8200/play/a05n/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a02a.png",Claro Sports 2 SD / TUDN USA
-http://45.5.117.57:8200/play/a02a/index.m3u8
-#EXTINF:-1 group-title="-",Claro TV+ 4K
-http://45.185.11.126:8000/play/a06f/index.m3u8
-#EXTINF:-1,Classic Rock Roll
-http://45.188.229.33:8000/play/a1jc/index.m3u8
-#EXTINF:-1 group-title="-",CLASSIC_+_MIC
-http://38.210.105.10:8000/play/a0au/index.m3u8
-#EXTINF:-1 group-title="-",CLASSIC_SERIES_MIC
-http://38.210.105.10:8000/play/a0at/index.m3u8
-#EXTINF:-1 group-title="-",CLASSIC_WESTERN_MIC
-http://38.210.105.10:8000/play/a0aw/index.m3u8
-#EXTINF:-1,CLICK HD
-http://38.65.175.84:8000/play/a0mh/index.m3u8
-#EXTINF:-1,Clover
-http://45.188.229.33:8000/play/a1ka/index.m3u8
-#EXTINF:-1 group-title="-",CNN Chile
-http://45.173.231.22:8000/play/a0ay/index.m3u8
-#EXTINF:-1,CNN en Espaæol OpciÃ³n 1
-http://158.172.155.130:8000/play/a0do/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a019.png",CNN EN ESPAÑOL
-http://45.5.117.57:8200/play/a019/index.m3u8
-#EXTINF:-1 group-title="-",Cnn Esp
-http://190.128.214.97:64333/play/a03k/index.m3u8
-#EXTINF:-1 group-title="-",CNN Espaæol
-http://45.173.231.22:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="-",CNN Espanol
-http://45.173.231.22:8000/play/a0a7/index.m3u8
-#EXTINF:-1 group-title="-",CNN español
-http://200.115.120.1:8000/play/ca044/index.m3u8
-#EXTINF:-1 group-title="-",CNN Ingles
-http://200.115.120.1:8000/play/ca045/index.m3u8
-#EXTINF:-1 group-title="-",CNN Internacional
-http://38.224.231.176:8000/play/a091/index.m3u8
-#EXTINF:-1 group-title="-",CNN International
-http://181.224.255.210:8001/play/a0px/index.m3u8
-#EXTINF:-1 group-title="-",CNNE
-http://38.224.231.176:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0fo.png",CNT
-http://45.5.117.57:8200/play/a0fo/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a02q.png",Color Vision 9 - RD
-http://45.5.117.57:8200/play/a02q/index.m3u8
-#EXTINF:-1 group-title="-",Combate HD
-http://45.185.11.126:8000/play/a073/index.m3u8
-#EXTINF:-1,Comedy Central
-http://45.188.229.33:8000/play/a12k/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a043.png",Concert Channel
-http://45.5.117.57:8200/play/a043/index.m3u8
-#EXTINF:-1 group-title="-",CONTACTO_LATINO_MIC
-http://38.210.105.10:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="-",Corrientes TV | AR
-http://190.128.214.97:64333/play/a06n/index.m3u8
-#EXTINF:-1 group-title="-",Cosmos HD
-http://138.59.227.20:8000/play/a0ek/index.m3u8
-#EXTINF:-1 group-title="-",CREO MOVIES
-http://200.123.40.1:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="-",CREO TV
-http://200.123.40.1:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="-",Cronica
-http://181.209.80.115:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="-",CRONICA / IRD T 5
-http://45.179.152.42:8000/play/a03b
-#EXTINF:-1,D SPORT +
-http://38.199.5.160:8000/play/a09q/index.m3u8
-#EXTINF:-1,D-SPORT
-http://181.78.82.130:8000/play/a0r5/index.m3u8
-#EXTINF:-1,D-SPORT 2
-http://181.78.82.130:8000/play/a0r4/index.m3u8
-#EXTINF:-1 group-title="-",D_SPORT_2
-http://38.210.105.10:8000/play/a0j5/index.m3u8
-#EXTINF:-1 group-title="-",DAYSTAR
-http://45.173.231.22:8000/play/a0cs/index.m3u8
-#EXTINF:-1 group-title="-",DAZN LA LIGA
-http://200.115.120.1:8000/play/ca081/index.m3u8
-#EXTINF:-1,De Pelicula
-http://45.188.229.33:8000/play/a1j2/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0f7.png",Deportes TVC - HND
-http://45.5.117.57:8200/play/a0f7/index.m3u8
-#EXTINF:-1 group-title="-",DeporTV OpciÃ³n 1
-http://181.209.80.115:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="-",desconocido
-http://45.179.152.42:8000/play/a034
-#EXTINF:-1,DHE
-http://45.188.229.33:8000/play/a13k/index.m3u8
-#EXTINF:-1,DICOVERY CHANNEL
-http://38.65.175.84:8000/play/a0ep/index.m3u8
-#EXTINF:-1 group-title="-",DIGITAL 1
-http://45.179.152.42:8000/play/a02e
-#EXTINF:-1 group-title="-",directv sport
-http://38.224.231.176:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="-",00 - DirecTV Sports
-http://38.56.111.14:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="-",DISC THEATHER HD
-http://38.224.231.176:8000/play/a0cw/index.m3u8
-#EXTINF:-1,Discovery HD-AR-OK
-http://158.172.155.130:8000/play/a0av/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Channel  HD
-http://45.173.231.22:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="-",DISCOVERY FAMILY
-http://200.115.120.1:8000/play/ca053/index.m3u8
-#EXTINF:-1 group-title="-",Discovery H&H
-http://45.173.231.22:8000/play/a09k/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a03x.png",Discovery Home & Health
-http://45.5.117.57:8200/play/a03x/index.m3u8
-#EXTINF:-1 group-title="-",Discovery ID
-http://200.115.120.1:8000/play/ca056/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Kids
-http://45.173.231.22:8000/play/a0a6/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Science
-http://45.173.231.22:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="-",DISCOVERY THEATER
-http://200.115.120.1:8000/play/ca336/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a03d.png",DISCOVERY THEATHER HD
-http://45.5.117.57:8200/play/a03d/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Turbo
-http://45.173.231.22:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="-",Discovery World HD
-http://45.185.11.126:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="-",Dismar TV | PY
-http://190.128.214.97:64333/play/a06p/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a03u.png",Disney
-http://45.5.117.57:8200/play/a03u/index.m3u8
-#EXTINF:-1 group-title="-",Disney Channel HD
-http://45.173.231.22:8000/play/a068/index.m3u8
-#EXTINF:-1,Disney Channel - OK
-http://158.172.155.130:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="-",Disney Jr
-http://45.173.231.22:8000/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="-",Disney Jr. OpciÃ³n 1
-http://181.224.255.210:8001/play/a0ny/index.m3u8
-#EXTINF:-1,Disney Junior OpciÃ³n 1
-http://45.188.229.33:8000/play/a0k4/index.m3u8
-#EXTINF:-1 group-title="-",Distrito Comedia
-http://45.173.231.22:8000/play/a0d3/index.m3u8
-#EXTINF:-1 group-title="-",DOBLE_C
-http://38.210.105.10:8000/play/a0jd/index.m3u8
-#EXTINF:-1 group-title="-",DREAMWORK
-http://200.115.120.1:8000/play/ca005/index.m3u8
-#EXTINF:-1 group-title="-",DS SPORTS URUGUAY PREMIU
-http://186.33.57.100:8000/play/a2o3/index.m3u8
-#EXTINF:-1 group-title="-",DSports HD OpciÃ³n 1
-http://181.209.80.115:8000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="-",DSports 1 HD (ar)
-http://200.123.40.1:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="-",DSports 2 HD OpciÃ³n 1
-http://181.209.80.115:8000/play/a0dp/index.m3u8
-#EXTINF:-1 group-title="-",DSports 2 HD (ar)
-http://200.123.40.1:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="-",E Entertainment
-http://45.173.231.22:8000/play/a08t/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a02v.png",E!
-http://45.5.117.57:8200/play/a02v/index.m3u8
-#EXTINF:-1,E! Entertainment
-http://45.188.229.33:8000/play/a1ap/index.m3u8
-#EXTINF:-1 group-title="-",00 - E! Entertainment TV
-http://181.224.255.210:8001/play/a0q3/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01k.png",E! Entertairment HD
-http://45.5.117.57:8200/play/a01k/index.m3u8
-#EXTINF:-1 group-title="-",E_SPORTS_MAX_MIC
-http://38.210.105.10:8000/play/Rin/index.m3u8
-#EXTINF:-1 group-title="-",El Gourmet
-http://45.173.231.22:8000/play/a09r/index.m3u8
-#EXTINF:-1,el nueve HD
-http://45.188.229.33:8000/play/a1aw/index.m3u8
-#EXTINF:-1 group-title="-",El Trece
-http://45.173.231.22:8000/play/a09x/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01x.png",ELIM TV - ESA
-http://45.5.117.57:8200/play/a01x/index.m3u8
-#EXTINF:-1 group-title="-",T13 en vivo
-http://200.123.40.1:8000/play/a070/index.m3u8
-#EXTINF:-1,Encuentro
-http://158.172.155.130:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="-",ENCUENTRO / IRD T 5
-http://45.179.152.42:8000/play/a03a
-#EXTINF:-1 group-title="-",00.ENLACE HD
-http://177.53.153.207:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Pack ENT",ENT Channel
-https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Pack ENT",ENT Classics
-https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="Pack ENT",ENT Comedy
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="Pack ENT",ENT Drama
-https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="Pack ENT",ENT Extreme
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="Pack ENT",ENT Family
-https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Pack ENT",ENT Life
-https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="Pack ENT",ENT Movies
-https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="-",ENTEL  2 FUTBOL HD
-http://186.33.57.100:8000/play/a2il/index.m3u8
-#EXTINF:-1 group-title="-",EPICRISE
-http://200.123.40.1:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="-",Esne
-http://45.173.231.22:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="-",ESPN
-http://45.173.231.22:8000/play/a08w/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2
-http://190.128.214.97:64333/play/a03b/index.m3u8
-#EXTINF:-1 group-title="-",ENC2 - ESPN 2 CO.
-http://190.128.214.97:64333/play/a02h/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3
-http://45.173.231.22:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="-",ESPN  4 HD OpciÃ³n 2
-http://38.224.231.176:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="1",ESPN 4HD
-http://186.33.57.100:8000/play/a1rn/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5 HD
-http://45.185.11.126:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="1",ESPN 5HD
-http://186.33.57.100:8000/play/a1vh/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6
-http://45.173.231.22:8000/play/a096/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6HD
-http://190.108.83.69:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="-",ENC5 - ESPN 7
-http://190.128.214.97:64333/play/a039/index.m3u8
-#EXTINF:-1 group-title="1",ESPN 7HD
-http://186.33.57.100:8000/play/a1a5/index.m3u8
-#EXTINF:-1 group-title="-",E4 ESPN CO
-http://190.128.214.97:64333/play/a01p/index.m3u8
-#EXTINF:-1,espn extra
-http://38.65.175.84:8000/play/a0kf/index.m3u8
-#EXTINF:-1 group-title="-",00 - ESPN PERU HD
-http://181.224.255.210:8001/play/a0sa/index.m3u8
-#EXTINF:-1 group-title="-",ENC3 - ESPN PREMIUM
-http://190.128.214.97:64333/play/a02i/index.m3u8
-#EXTINF:-1 group-title="-",ESPN2 HD
-http://181.224.255.210:8001/play/a0oj/index.m3u8
-#EXTINF:-1 group-title="-",ESPN3 HD
-http://181.224.255.210:8001/play/a0ps/index.m3u8
-#EXTINF:-1 group-title="-",ESPN4 HD
-http://181.224.255.210:8001/play/a0og/index.m3u8
-#EXTINF:-1 group-title="-",ESPN5 HD
-http://181.224.255.210:8001/play/a0pr/index.m3u8
-#EXTINF:-1 group-title="-",ESPN6 HD
-http://181.224.255.210:8001/play/a0eq/index.m3u8
-#EXTINF:-1 group-title="-",ESPN7 HD
-http://181.224.255.210:8001/play/a0m5/index.m3u8
-#EXTINF:-1 group-title="-",Esport Max
-http://38.224.231.176:8000/play/a0bx/index.m3u8
-#EXTINF:-1 group-title="-",ESPORT_GO_MIC
-http://38.210.105.10:8000/play/GFHDF/index.m3u8
-#EXTINF:-1 group-title="-",EURO CHANEL
-http://200.115.120.1:8000/play/ca331/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a026.png",EURO Channel
-http://45.5.117.57:8200/play/a026/index.m3u8
-#EXTINF:-1,EUROPA
-http://38.65.175.84:8000/play/a0k6/index.m3u8
-#EXTINF:-1 group-title="-",Europa Europa
-http://45.173.231.22:8000/play/a0d1/index.m3u8
-#EXTINF:-1 group-title="-",EUROS PORT 1
-http://200.115.120.1:8000/play/ca042/index.m3u8
-#EXTINF:-1 group-title="-",EUROSPORT2
-http://200.115.120.1:8000/play/ca119/index.m3u8
-#EXTINF:-1 group-title="-",Eventos 1 HD (ar)
-http://200.123.40.1:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="-",Eventos 2 HD (ar)
-http://200.123.40.1:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="-",EVENTOS DEPORTIVOS
-http://200.115.120.1:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="-",EWTN
-http://45.173.231.22:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a033.png",Exa TV
-http://45.5.117.57:8200/play/a033/index.m3u8
-#EXTINF:-1,FIGTH BOX
-http://38.65.175.84:8000/play/a0kr/index.m3u8
-#EXTINF:-1 group-title="-",Film & Arts
-http://200.115.120.1:8000/play/ca131/index.m3u8
-#EXTINF:-1,Film&Arts
-http://45.188.229.33:8000/play/a0xr/index.m3u8
-#EXTINF:-1 group-title="-",FMH Family
-http://38.210.105.10:8000/play/a07q/index.m3u8
-#EXTINF:-1 group-title="-",FMH_MOVIES
-http://38.210.105.10:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="-",FOOD NETWORK
-http://200.115.120.1:8000/play/ca032/index.m3u8
-#EXTINF:-1,FORMULA NOTICIAS
-http://38.65.175.84:8000/play/a0be/index.m3u8
-#EXTINF:-1,fox channel
-http://38.65.175.84:8000/play/a08v/index.m3u8
-#EXTINF:-1 group-title="-",FOX NEWS
-http://200.115.120.1:8000/play/ca124/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0hg.png",FOX NIC
-http://45.5.117.57:8200/play/a0hg/index.m3u8
-#EXTINF:-1 group-title="-",Fox Sport
-http://200.115.120.1:8000/play/ca041/index.m3u8
-#EXTINF:-1 group-title="-",ENC4 - FOX SPORTS
-http://190.128.214.97:64333/play/a02l/index.m3u8
-#EXTINF:-1 group-title="-",Fox Sports 1 HD
-http://200.123.40.1:8000/play/a04q/index.m3u8
-#EXTINF:-1,Fox Sports 2 HD OpciÃ³n 1
-http://158.172.155.130:8000/play/a0dt/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a058.png",FOX SPORTS 2 / TELEMUNDO MIAMI
-http://45.5.117.57:8200/play/a058/index.m3u8
-#EXTINF:-1 group-title="-",FOX SPORTS 3
-http://200.115.120.1:8000/play/ca150/index.m3u8
-#EXTINF:-1 group-title="-",Foz de Yguazu
-http://138.59.227.20:8000/play/a0gv/index.m3u8
-#EXTINF:-1 group-title="-",France 24
-http://45.173.231.22:8000/play/a0a3/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01b.png",France24
-http://45.5.117.57:8200/play/a01b/index.m3u8
-#EXTINF:-1 group-title="-",Futbol Total
-http://138.59.227.20:8000/play/a0fs/index.m3u8
-#EXTINF:-1 group-title="-",FUTV CR
-http://38.224.231.176:8000/play/a0d6/index.m3u8
-#EXTINF:-1 group-title="-",2ENC3 - FX
-http://190.128.214.97:64333/play/a03h/index.m3u8
-#EXTINF:-1 group-title="-",G DS
-http://190.108.83.69:8000/play/a0cb/index.m3u8
-#EXTINF:-1 group-title="-",G LA KARIBEÑA
-http://190.108.83.69:8000/play/a0cd/index.m3u8
-#EXTINF:-1 group-title="-",GALAVISION
-http://200.115.120.1:8000/play/ca128/index.m3u8
-#EXTINF:-1 group-title="-",Galicia TV
-http://181.209.80.115:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="-",GamaTV
-http://45.173.231.22:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="-",Gamavisiðn
-http://45.173.231.22:8000/play/a00x/index.m3u8
-#EXTINF:-1,GAME TOON
-http://38.65.175.84:8000/play/a0kv/index.m3u8
-#EXTINF:-1 group-title="-",GE TV HD
-http://45.185.11.126:8000/play/a08v/index.m3u8
-#EXTINF:-1 group-title="-",GEN
-http://190.128.214.97:64333/play/a001/index.m3u8
-#EXTINF:-1,Giga Vision HD
-http://158.172.155.130:8000/play/a0e7/index.m3u8
-#EXTINF:-1,GINX
-http://38.65.175.84:8000/play/a0kx/index.m3u8
-#EXTINF:-1 group-title="-",00 - GLOBAL HD
-http://38.56.111.14:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="-",GloboNews HD
-http://45.185.11.126:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="-",Globoplay Novelas HD
-http://45.185.11.126:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="-",GLOBOVISION
-http://45.179.152.42:8000/play/a041
-#EXTINF:-1 group-title="-",Gloob HD
-http://45.185.11.126:8000/play/a07v/index.m3u8
-#EXTINF:-1 group-title="-",Gloobinho HD
-http://45.185.11.126:8000/play/a071/index.m3u8
-#EXTINF:-1 group-title="-",GNT HD
-http://45.185.11.126:8000/play/a079/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0e7.png",Gobierno GUA
-http://45.5.117.57:8200/play/a0e7/index.m3u8
-#EXTINF:-1 group-title="-",Golden
-http://45.173.231.22:8000/play/a0cz/index.m3u8
-#EXTINF:-1 group-title="-",1626 Golden (clone)
-http://38.56.111.14:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="-",Golden Edge
-http://45.173.231.22:8000/play/a0cy/index.m3u8
-#EXTINF:-1 group-title="-",GOLDEN PREMIER
-http://200.115.120.1:8000/play/ca023/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0gl.png",Golden Premiere HD
-http://45.5.117.57:8200/play/a0gl/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0gm.png",Golden Premiere 2 HD
-http://45.5.117.57:8200/play/a0gm/index.m3u8
-#EXTINF:-1 group-title="-",Golf Channel
-http://45.173.231.22:8000/play/a0cv/index.m3u8
-#EXTINF:-1,GOURMET
-http://38.65.175.84:8000/play/a0k7/index.m3u8
-#EXTINF:-1,Gourmet T
-http://38.65.175.84:8000/play/a0o4/index.m3u8
-#EXTINF:-1 group-title="-",GUA NACION TV
-http://200.115.120.1:8000/play/ca316/index.m3u8
-#EXTINF:-1 group-title="-",GUA VISION TV
-http://200.115.120.1:8000/play/ca327/index.m3u8
-#EXTINF:-1 group-title="-",Guaira Tv
-http://138.59.227.20:8000/play/a0ga/index.m3u8
-#EXTINF:-1 group-title="-",GUATEVISION ++
-http://200.115.120.1:8000/play/ca066/index.m3u8
-#EXTINF:-1 group-title="-",H AMERICA TV
+#EXTINF:-1 group-title="Canales de Aire / Argentina",H AMERICA TV
 http://190.108.83.69:8000/play/a097/index.m3u8
-#EXTINF:-1 group-title="-",H ATV SUR HD
-http://190.108.83.69:8000/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="-",H ATV+ HD
-http://190.108.83.69:8000/play/a0cp/index.m3u8
-#EXTINF:-1 group-title="-",H LATELE HD
-http://190.108.83.69:8000/play/a0cr/index.m3u8
-#EXTINF:-1 group-title="-",H LATINA HD
-http://190.108.83.69:8000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="-",H TV PERU
-http://190.108.83.69:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="-",H&H+++
-http://200.115.120.1:8000/play/ca057/index.m3u8
-#EXTINF:-1 group-title="-",H- GOURMET HD
-http://190.108.83.69:8000/play/a0d2/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a027.png",H2
-http://45.5.117.57:8200/play/a027/index.m3u8
-#EXTINF:-1 group-title="-",E16 HBO
-http://190.128.214.97:64333/play/a01e/index.m3u8
-#EXTINF:-1 group-title="-",HBO 1
-http://200.123.40.1:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="-",00- HBO 2 HD
-http://38.56.111.14:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="-",HBO Family
-http://45.173.231.22:8000/play/a0ai/index.m3u8
-#EXTINF:-1 group-title="-",HBO Mundi
-http://45.173.231.22:8000/play/a0a1/index.m3u8
-#EXTINF:-1 group-title="-",HBO Plus
-http://45.173.231.22:8000/play/a0d2/index.m3u8
-#EXTINF:-1,HBO POP
-http://158.172.155.130:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="-",HBO Signative
-http://200.115.120.1:8000/play/ca139/index.m3u8
-#EXTINF:-1 group-title="-",HBO Signature
-http://45.173.231.22:8000/play/a0a0/index.m3u8
-#EXTINF:-1 group-title="-",HBO XTREME HD
-http://45.185.11.126:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="-",HBO+ HD
-http://45.185.11.126:8000/play/a08p/index.m3u8
-#EXTINF:-1 group-title="-",HBO2 HD
-http://45.185.11.126:8000/play/a08o/index.m3u8
-#EXTINF:-1 group-title="-",HCH- HON
-http://38.224.231.176:8000/play/a09w/index.m3u8
-#EXTINF:-1 group-title="-",HEI
-http://190.128.214.97:64333/play/a075/index.m3u8
-#EXTINF:-1 group-title="-",HERO MAX
-http://200.123.40.1:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="-",HGTV
-http://45.173.231.22:8000/play/a01j/index.m3u8
-#EXTINF:-1,HISTORY
-http://181.78.82.130:8000/play/a0ls/index.m3u8
-#EXTINF:-1 group-title="-",History 1 HD
-http://200.123.40.1:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="-",History 2
-http://45.173.231.22:8000/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="-",History Channel
-http://45.173.231.22:8000/play/a0at/index.m3u8
-#EXTINF:-1 group-title="-",HOME & HEALTH
-http://200.115.120.1:8000/play/ca115/index.m3u8
-#EXTINF:-1 group-title="-",Home and Health
-http://45.173.231.22:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0gi.png",Home Garden Latino
-http://45.5.117.57:8200/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="-",HTV
-http://45.173.231.22:8000/play/a0d6/index.m3u8
-#EXTINF:-1 group-title="-",HUSTLER TV
-http://200.115.120.1:8000/play/ca96/index.m3u8
-#EXTINF:-1 group-title="-",I- SAAT
-http://200.115.120.1:8000/play/ca068/index.m3u8
-#EXTINF:-1 group-title="-",ID
-http://45.173.231.22:8000/play/a04a/index.m3u8
-#EXTINF:-1,IMAGEN
-http://38.65.175.84:8000/play/a0d5/index.m3u8
-#EXTINF:-1 group-title="-",IN
-http://177.53.153.207:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="-",INKA_VISION
-http://38.210.105.10:8000/play/SDFSFD/index.m3u8
-#EXTINF:-1,ISAT
-http://38.65.175.84:8000/play/a0b2/index.m3u8
-#EXTINF:-1 group-title="-",IVC HD
-http://186.33.57.100:8000/play/a25t/index.m3u8
-#EXTINF:-1 group-title="-",JN19_FLU
-http://190.108.80.138:8000/play/a0ls/index.m3u8
-#EXTINF:-1 group-title="-",JP News HD
-http://45.185.11.126:8000/play/a0a1/index.m3u8
-#EXTINF:-1,12661 JUSTICIA TV
-http://38.65.175.84:8000/play/a0bg/index.m3u8
-#EXTINF:-1 group-title="-",Kanal D Drama
-http://45.173.231.22:8000/play/a0cf/index.m3u8
-#EXTINF:-1 group-title="-",KANAL DRAMA
-http://200.115.120.1:8000/play/ca074/index.m3u8
-#EXTINF:-1 group-title="-",KARIBENA
-http://181.224.255.210:8001/play/a0sx/index.m3u8
-#EXTINF:-1 group-title="-",00 - Karibeña HD
-http://38.56.111.14:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0hm.png",KDrama HD
-http://45.5.117.57:8200/play/a0hm/index.m3u8
-#EXTINF:-1 group-title="-",00.Kossuth Radio
-http://177.53.153.207:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="1",L1
-http://186.33.57.100:8000/play/a2hh/index.m3u8
-#EXTINF:-1 group-title="-",La Nacion TV
-http://181.209.80.115:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="-",La Red
-http://45.173.231.22:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="-",La Red 2
-http://200.123.40.1:8000/play/a06u/index.m3u8
-#EXTINF:-1 group-title="-",La Tele
-http://45.173.231.22:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="-",LA VERDAD TV
-http://190.108.80.138:8000/play/a0jw/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a040.png",La voz de Maria
-http://45.5.117.57:8200/play/a040/index.m3u8
-#EXTINF:-1,LAMEJOR TV
-http://38.65.175.84:8000/play/a0ls/index.m3u8
-#EXTINF:-1 group-title="-",00 - Lifetime
-http://181.224.255.210:8001/play/a0q6/index.m3u8
-#EXTINF:-1 group-title="-",Liga UNO MAX
-http://181.224.255.210:8001/play/a0t2/index.m3u8
-#EXTINF:-1 group-title="-",Liga UNO OFICIAL
-http://181.224.255.210:8001/play/a0t1/index.m3u8
-#EXTINF:-1,LIGA1
-http://38.199.5.160:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="-",LOVE NATURE
-http://200.115.120.1:8000/play/ca059/index.m3u8
-#EXTINF:-1 group-title="-",Maria Vision Tv
-http://138.59.227.20:8000/play/a0f7/index.m3u8
-#EXTINF:-1 group-title="-",Maria Visión ++
-http://200.115.120.1:8000/play/ca080/index.m3u8
-#EXTINF:-1 group-title="-",MAS
-http://38.210.105.10:8000/play/a09s/index.m3u8
-#EXTINF:-1,MÆsChic
-http://45.188.229.33:8000/play/a0xt/index.m3u8
-#EXTINF:-1 group-title="1",L1 MAX
-http://186.33.57.100:8000/play/a2lc/index.m3u8
-#EXTINF:-1 group-title="-",Max Anime
-http://38.224.231.176:8000/play/a09y/index.m3u8
-#EXTINF:-1,MC
-http://38.65.175.84:8000/play/a0co/index.m3u8
-#EXTINF:-1 group-title="-",Mega
-http://45.173.231.22:8000/play/a0aa/index.m3u8
-#EXTINF:-1 group-title="-",Mega 2 HD
-http://186.33.57.100:8000/play/a2q5/index.m3u8
-#EXTINF:-1 group-title="-",MEGA TV
-http://190.128.214.97:64333/play/a00t/index.m3u8
-#EXTINF:-1 group-title="-",Megapix HD
-http://45.185.11.126:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="-",MEIO NORTE
-http://190.128.214.97:64333/play/a023/index.m3u8
-#EXTINF:-1 group-title="-",MEMORIAS_SERIES_MIC
-http://38.210.105.10:8000/play/a0an/index.m3u8
-#EXTINF:-1 group-title="-",MEMORIAS_TROPICAL_MIC
-http://38.210.105.10:8000/play/GAA/index.m3u8
-#EXTINF:-1 group-title="-",Metro
-http://181.209.80.115:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="-",MI TV
-http://190.128.214.97:64333/play/a02w/index.m3u8
-#EXTINF:-1 group-title="-",MI_PELICULA
-http://38.210.105.10:8000/play/a09l/index.m3u8
-#EXTINF:-1,milenio
-http://38.65.175.84:8000/play/a0dm/index.m3u8
-#EXTINF:-1,Mitre AM790
-http://45.188.229.33:8000/play/a1dt/index.m3u8
-#EXTINF:-1 group-title="-",MIX
-http://38.210.105.10:8000/play/a09r/index.m3u8
-#EXTINF:-1 group-title="-",MIX_MUSIC_CHANNEL_MIC
-http://38.210.105.10:8000/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="-",Modo Viagem HD
-http://45.185.11.126:8000/play/a07u/index.m3u8
-#EXTINF:-1 group-title="-",Monumental Hd Asu
-http://190.128.214.97:64333/play/a046/index.m3u8
-#EXTINF:-1 group-title="-",0281 Movistar Deportes
-http://38.56.111.14:8000/play/a02y/index.m3u8
-#EXTINF:-1,Movistar Informa
-http://45.188.229.33:8000/play/a1ew/index.m3u8
-#EXTINF:-1 group-title="-",MTV
-http://45.173.231.22:8000/play/a0aw/index.m3u8
-#EXTINF:-1,MTV×00 OpciÃ³n 1
-http://158.172.155.130:8000/play/a0dn/index.m3u8
-#EXTINF:-1,MULTI PREMIER
-http://38.65.175.84:8000/play/a0cp/index.m3u8
-#EXTINF:-1,MULTICANAL
-http://38.65.175.84:8000/play/a0lo/index.m3u8
-#EXTINF:-1 group-title="-",MULTICINEMA
-http://200.115.120.1:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a05i.png",Multimedios
-http://45.5.117.57:8200/play/a05i/index.m3u8
-#EXTINF:-1 group-title="-",MULTIPREMIER
-http://200.115.120.1:8000/play/ca026/index.m3u8
-#EXTINF:-1 group-title="-",Multishow HD
-http://45.185.11.126:8000/play/a07a/index.m3u8
-#EXTINF:-1 group-title="-",MUNDO_DE_CAMPO_MIC
-http://38.210.105.10:8000/play/a0ar/index.m3u8
-#EXTINF:-1 group-title="-",Music Top | AR
-http://190.128.214.97:64333/play/a06o/index.m3u8
-#EXTINF:-1 group-title="-",NANDE JARA NEE
-http://190.128.214.97:64333/play/a024/index.m3u8
-#EXTINF:-1 group-title="-",NANDUTI HD
-http://190.128.214.97:64333/play/a02d/index.m3u8
-#EXTINF:-1 group-title="-",Nanduti Tv
-http://138.59.227.20:8000/play/a0eq/index.m3u8
-#EXTINF:-1,Nat Geo
-http://45.188.229.33:8000/play/a1ar/index.m3u8
-#EXTINF:-1 group-title="-",NATGEO
-http://200.115.120.1:8000/play/ca155/index.m3u8
-#EXTINF:-1 group-title="-",H3E1 - NATIONAL GEOGRAPHIC
-http://190.128.214.97:64333/play/a01u/index.m3u8
-#EXTINF:-1 group-title="-",NATIVA
-http://190.108.80.138:8000/play/a036/index.m3u8
-#EXTINF:-1,NBA
-http://38.65.175.84:8000/play/a0kj/index.m3u8
-#EXTINF:-1 group-title="-",NBC
-http://200.115.120.1:8000/play/ca360/index.m3u8
-#EXTINF:-1 group-title="-",Next Tv
-http://138.59.227.20:8000/play/a0dp/index.m3u8
-#EXTINF:-1 group-title="-",NFC NETWORK
-http://200.115.120.1:8000/play/ca349/index.m3u8
-#EXTINF:-1,NFL
-http://38.65.175.84:8000/play/a0kk/index.m3u8
-#EXTINF:-1 group-title="-",Nicarao TV
-http://38.224.231.176:8000/play/a0a1/index.m3u8
-#EXTINF:-1,NICK
-http://38.65.175.84:8000/play/a0am/index.m3u8
-#EXTINF:-1 group-title="-",Nick Jr
-http://45.173.231.22:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="-",Nick Jr. OpciÃ³n 1
-http://190.108.80.138:8000/play/a0je/index.m3u8
-#EXTINF:-1 group-title="-",NICK JUNIOR HD
-http://186.33.57.100:8000/play/a1fs/index.m3u8
-#EXTINF:-1,Nick Music
-http://45.188.229.33:8000/play/a0xp/index.m3u8
-#EXTINF:-1 group-title="-",Nickelodeon
-http://45.173.231.22:8000/play/a0ar/index.m3u8
-#EXTINF:-1 group-title="-",NITRO
-http://38.210.105.10:8000/play/a09k/index.m3u8
-#EXTINF:-1,12661 NOTICIAS DEL CONGRESO
-http://38.65.175.84:8000/play/a0az/index.m3u8
-#EXTINF:-1 group-title="-",E3 NOTICIAS PARAGUAY HD PILAR
-http://190.128.214.97:64333/play/a01o/index.m3u8
-#EXTINF:-1 group-title="-",NPY
-http://45.173.231.22:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="-",NTN 24 Horas
-http://190.108.83.69:8000/play/a00r/index.m3u8
-#EXTINF:-1,NTN24
-http://45.188.229.33:8000/play/a0xv/index.m3u8
-#EXTINF:-1 group-title="-",NTV
-http://200.123.40.1:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="-",Nuestra Tele
-http://45.173.231.22:8000/play/a0cr/index.m3u8
-#EXTINF:-1 group-title="-",Nuevo Tiempo
-http://138.59.227.20:8000/play/a0en/index.m3u8
-#EXTINF:-1 group-title="-",Obedira Tv HD
-http://138.59.227.20:8000/play/a0g2/index.m3u8
-#EXTINF:-1 group-title="-",OFF HD
-http://45.185.11.126:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="-",OLD MOVIES
-http://200.123.40.1:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="-",Pakapaka
-http://200.123.40.1:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="-",00 - Panamericana HD
-http://38.56.111.14:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="-",Panamericana TV
-http://45.173.231.22:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="-",PANICO
-http://200.115.120.1:8000/play/ca120/index.m3u8
-#EXTINF:-1 group-title="-",PLANETA_SALVAJE_PRUEBA_MIC
-http://38.210.105.10:8000/play/a0j2/index.m3u8
-#EXTINF:-1,PLAY BOY
-http://38.65.175.84:8000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="-",PLAYBOY
-http://200.115.120.1:8000/play/ca97/index.m3u8
-#EXTINF:-1,Plim Plim TV
-http://45.188.229.33:8000/play/a1kq/index.m3u8
-#EXTINF:-1 group-title="-",PLOUS_TV_MIC
-http://38.210.105.10:8000/play/at4r/index.m3u8
-#EXTINF:-1 group-title="-",0282 Plus TV Life
-http://38.56.111.14:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="1",Poder de Dios
-http://186.33.57.100:8000/play/a2h1/index.m3u8
-#EXTINF:-1 group-title="-",PONTE_LOVE
-http://38.210.105.10:8000/play/a0be/index.m3u8
-#EXTINF:-1 group-title="-",POPU TV
-http://190.128.214.97:64333/play/a030/index.m3u8
-#EXTINF:-1 group-title="-",Premiere 2 HD
-http://45.185.11.126:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="-",Premiere 3 HD
-http://45.185.11.126:8000/play/a0av/index.m3u8
-#EXTINF:-1 group-title="-",Premiere 4 HD
-http://45.185.11.126:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="-",Premiere 5 HD
-http://45.185.11.126:8000/play/a07c/index.m3u8
-#EXTINF:-1 group-title="-",Premiere 6 HD
-http://45.185.11.126:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="-",Premiere 7 HD
-http://45.185.11.126:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="-",Premiere 8 HD
-http://45.185.11.126:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="-",Premiere Clubes HD
-http://45.185.11.126:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="-",RAI Italia
-http://181.209.80.115:8000/play/a02p/index.m3u8
-http://38.210.105.10:8000/play/CVSDCV/index.m3u8
-#EXTINF:-1 group-title="-",RHEMA TV
-http://200.115.120.1:8000/play/ca94/index.m3u8
-#EXTINF:-1 group-title="-",RNN - RD
-http://38.224.231.176:8000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="-",ROCKANDPOP TV
-http://190.128.214.97:64333/play/a032/index.m3u8
-#EXTINF:-1 group-title="-",RPC Digital
-http://138.59.227.20:8000/play/a0e3/index.m3u8
-#EXTINF:-1 group-title="-",00 - RPP HD
-http://38.56.111.14:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="-",RQP HD
-http://190.128.214.97:64333/play/a04j/index.m3u8
-#EXTINF:-1 group-title="-",RT
-http://186.33.57.100:8000/play/a2sl/index.m3u8
-#EXTINF:-1,RT en Espaæol
-http://45.188.229.33:8000/play/a1co/index.m3u8
-#EXTINF:-1 group-title="-",RT en Español
-http://177.53.153.207:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="-",RT ESPANOL
-http://190.108.80.138:8000/play/a0j5/index.m3u8
-#EXTINF:-1 group-title="-",SCARE MOVIES
-http://200.123.40.1:8000/play/a05v/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0f2.png",SKY LIGA ALEMANA
-http://45.5.117.57:8200/play/a0f2/index.m3u8
-#EXTINF:-1 group-title="-",SKYSPORT
-http://200.115.120.1:8000/play/ca82266/index.m3u8
-#EXTINF:-1 group-title="-",SNT ASUNCION
-http://190.128.214.97:64333/play/a04f/index.m3u8
-#EXTINF:-1 group-title="-",Sony
-http://45.173.231.22:8000/play/a09m/index.m3u8
-#EXTINF:-1,SONY - OK
-http://158.172.155.130:8000/play/a0dc/index.m3u8
-#EXTINF:-1 group-title="-",SONY CHANNEL HD
-http://190.108.83.69:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="-",00 - SONY MOVIES HD
-http://38.56.111.14:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="-",2ENC2 - SPACE HD
-http://190.128.214.97:64333/play/a03f/index.m3u8
-#EXTINF:-1 group-title="-",sportv HD
-http://45.185.11.126:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="-",sportv2 HD
-http://45.185.11.126:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="-",sportv3 HD
-http://45.185.11.126:8000/play/a06v/index.m3u8
-#EXTINF:-1 group-title="-",2ENC4 - STAR CHANNEL
-http://190.128.214.97:64333/play/a03g/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01u.png",Star TVE HD
-http://45.5.117.57:8200/play/a01u/index.m3u8
-#EXTINF:-1 group-title="-",00 - Stingray Concerts HD
-http://181.224.255.210:8001/play/a0pu/index.m3u8
-#EXTINF:-1 group-title="-",Studio Universal
-http://190.128.214.97:64333/play/a03j/index.m3u8
-#EXTINF:-1,ST☆R CHANNEL
-http://181.78.82.130:8000/play/a0rg/index.m3u8
-#EXTINF:-1,The History Channel HD OpciÃ³n 1
-http://158.172.155.130:8000/play/a0dy/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a03a.png",Tigo Sports HD
-http://45.5.117.57:8200/play/a03a/index.m3u8
-#EXTINF:-1 group-title="-",TIGO SPORTS HD  2
-http://186.33.57.100:8000/play/a27r/index.m3u8
-#EXTINF:-1 group-title="-",TIGO SPORTS HD 3
-http://186.33.57.100:8000/play/a2dt/index.m3u8
-#EXTINF:-1 group-title="-",TIGO SPORTS HD  BOLIVIA
-http://186.33.57.100:8000/play/a1vl/index.m3u8
-#EXTINF:-1 group-title="-",TIMES | EXCLUSIVO CNBC
-http://45.185.11.126:8000/play/a0a5/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a05e.png",TL NOVELAS
-http://45.5.117.57:8200/play/a05e/index.m3u8
-#EXTINF:-1 group-title="-",TLC
-http://45.173.231.22:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="-",Tlnovelas
-http://45.173.231.22:8000/play/a07i/index.m3u8
-#EXTINF:-1,TLR
-http://38.65.175.84:8000/play/a0em/index.m3u8
-#EXTINF:-1,TN HD
-http://45.188.229.33:8000/play/a1ax/index.m3u8
-#EXTINF:-1 group-title="-",TN23
-http://200.115.120.1:8000/play/ca104/index.m3u8
-#EXTINF:-1 group-title="-",ENC8 - TNT HD
-http://190.128.214.97:64333/play/a03d/index.m3u8
-#EXTINF:-1 group-title="-",TNT Novelas
-http://45.173.231.22:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="-",TNT Series HD
-http://45.173.231.22:8000/play/a08g/index.m3u8
-#EXTINF:-1 group-title="-",ENC7 - TNT SPORT HD
-http://190.128.214.97:64333/play/a03c/index.m3u8
-#EXTINF:-1 group-title="-",TNT SPORTS
-http://45.173.231.22:8000/play/a081/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports Premium
-http://45.173.231.22:8000/play/a0ad/index.m3u8
-#EXTINF:-1,TNT Sports Premiun HD
-http://45.188.229.33:8000/play/a137/index.m3u8
-#EXTINF:-1 group-title="-",TNTSPORT PREMIUM
-http://200.115.120.1:8000/play/ca040/index.m3u8
-#EXTINF:-1 group-title="-",Trace Brasil HD
-http://45.185.11.126:8000/play/a08l/index.m3u8
-#EXTINF:-1 group-title="-",Travel Food & Drinks HD
-http://45.185.11.126:8000/play/a07x/index.m3u8
-#EXTINF:-1 group-title="-",Trece
+#EXTINF:-1 group-title="Canales de Aire / Argentina" tvg-name="America | Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-ar.png",America TV (Op. 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1068.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina",el nueve HD
+http://45.188.229.33:8000/play/a1aw/index.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina" tvg-name="El Nueve (9) | Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/elnueve-ar.png",El Nueve (Op. 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/353.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina",El Trece
+http://45.173.231.22:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina",Trece
 http://45.173.231.22:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="-",TRO
-http://45.173.231.22:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="-",TUDN
-http://200.115.120.1:8000/play/ca039/index.m3u8
-#EXTINF:-1 group-title="-",TV+ HD
-http://200.123.40.1:8000/play/a06p/index.m3u8
-#EXTINF:-1,12661 TVC
-http://38.65.175.84:8000/play/a0bf/index.m3u8
-#EXTINF:-1 group-title="-",TVC DEPORTES +
-http://200.115.120.1:8000/play/ca069/index.m3u8
-#EXTINF:-1,TVCD
-http://38.65.175.84:8000/play/a0kl/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0gh.png",TVChile
-http://45.5.117.57:8200/play/a0gh/index.m3u8
-#EXTINF:-1 group-title="-",TVE
-http://45.173.231.22:8000/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="-",TVMAS2
-http://200.123.40.1:8000/play/a06q/index.m3u8
-#EXTINF:-1,TVN
-http://45.188.229.33:8000/play/a0tq/index.m3u8
-#EXTINF:-1 group-title="-",TyC
-http://45.173.231.22:8000/play/a08y/index.m3u8
-#EXTINF:-1 group-title="-",E24 TYC SPORT
-http://190.128.214.97:64333/play/a01l/index.m3u8
-#EXTINF:-1 group-title="-",00 - TyC Sports HD
-http://38.56.111.14:8000/play/a03t/index.m3u8
-#EXTINF:-1,UCL
-http://38.199.5.160:8000/play/a0ep/index.m3u8
-#EXTINF:-1 group-title="-",UCVTV
-http://200.123.40.1:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="-",Unicanal
-http://138.59.227.20:8000/play/a0e8/index.m3u8
-#EXTINF:-1 group-title="-",UNION TV
-http://190.128.214.97:64333/play/a02z/index.m3u8
-#EXTINF:-1 group-title="-",Universal
-http://45.173.231.22:8000/play/a09s/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a044.png",Universal (Estaba en el canal 21)
-http://45.5.117.57:8200/play/a044/index.m3u8
-#EXTINF:-1 group-title="-",Universal Channel
-http://200.115.120.1:8000/play/ca142/index.m3u8
-#EXTINF:-1 group-title="-",00 - Universal Cinema HD
-http://38.56.111.14:8000/play/a046/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a04s.png",UNIVERSAL CINEMA ESTE HD
-http://45.5.117.57:8200/play/a04s/index.m3u8
-#EXTINF:-1 group-title="-",00 - Universal Comedy HD
-http://38.56.111.14:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="-",00 - Universal Crime HD
-http://38.56.111.14:8000/play/a048/index.m3u8
-#EXTINF:-1 group-title="-",00 - Universal Premiere HD
-http://38.56.111.14:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a03j.png",UNIVERSAL PREMIERE O HD
-http://45.5.117.57:8200/play/a03j/index.m3u8
-#EXTINF:-1 group-title="-",00 - Universal Reality HD
-http://38.56.111.14:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="-",Universal TV HD
-http://45.185.11.126:8000/play/a0af/index.m3u8
-#EXTINF:-1 group-title="-",UNIVISION
-http://200.115.120.1:8000/play/ca372/index.m3u8
-#EXTINF:-1 group-title="-",UNIVISION LAT
-http://190.108.80.138:8000/play/a0ge/index.m3u8
-#EXTINF:-1 group-title="-",UNIVISION TLNOVELAS
-http://200.115.120.1:8000/play/ca110/index.m3u8
-#EXTINF:-1 group-title="-",URBANA TV HD
-http://190.128.214.97:64333/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0fy.png",URPLAY
-http://45.5.117.57:8200/play/a0fy/index.m3u8
-#EXTINF:-1 group-title="-",USA
-http://45.173.231.22:8000/play/a0cx/index.m3u8
-#EXTINF:-1 group-title="-",USA NETWORK
-http://200.115.120.1:8000/play/ca151/index.m3u8
-#EXTINF:-1 group-title="-",Vea canal
-http://200.115.120.1:8000/play/ca087/index.m3u8
-#EXTINF:-1,Venus
-http://45.188.229.33:8000/play/a1k2/index.m3u8
-#EXTINF:-1 group-title="-",Venus Tv
-http://190.128.214.97:64333/play/a00n/index.m3u8
-#EXTINF:-1 group-title="-",Volver
+#EXTINF:-1 group-title="Canales de Aire / Argentina" tvg-name="El Trece | Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/eltrece-ar.png",El Trece HD (Op. 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/362.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina" tvg-name="Telefe | Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png",Telefe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/874.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina" tvg-name="Telefe | HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png",Telefe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1172.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina" tvg-name="Telefe | Internacional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png",Telefe Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1166.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina" tvg-name="TV Publica | Arg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/television-publica-ar.png",TV Publica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/DBHmCasm/1171.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina",Encuentro
+http://158.172.155.130:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina",ENCUENTRO / IRD T 5
+http://45.179.152.42:8000/play/a03a
+#EXTINF:-1 group-title="Canales de Aire / Argentina",ciudad magazine
+http://181.209.80.115:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina",Metro
+http://181.209.80.115:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina",Volver
 http://181.209.80.115:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="-",VTV Canal 35 ESA
-http://38.224.231.176:8000/play/a0bh/index.m3u8
-#EXTINF:-1,Warner
-http://45.188.229.33:8000/play/a18o/index.m3u8
-#EXTINF:-1 group-title="-",Warner Channel
-http://45.173.231.22:8000/play/a09q/index.m3u8
-#EXTINF:-1 group-title="-",Warner TV HD
-http://45.173.231.22:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="-",warzone
-http://200.123.40.1:8000/play/a060/index.m3u8
-#EXTINF:-1 group-title="-",WEST
-http://181.224.255.210:8001/play/a0rq/index.m3u8
-#EXTINF:-1 group-title="-",00 - Willax HD
-http://38.56.111.14:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="-",Win
+#EXTINF:-1 group-title="Canales de Aire / Argentina",Mitre AM790
+http://45.188.229.33:8000/play/a1dt/index.m3u8
+#EXTINF:-1 group-title="Canales de Aire / Argentina",DIGITAL 1
+http://45.179.152.42:8000/play/a02e
+
+# ==========================================
+# DEPORTES
+# ==========================================
+#EXTINF:-1 group-title="Deportes",TyC
+http://45.173.231.22:8000/play/a08y/index.m3u8
+#EXTINF:-1 group-title="Deportes",E24 TYC SPORT
+http://190.128.214.97:64333/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Deportes",00 - TyC Sports HD
+http://38.56.111.14:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png",TyC Sports (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/974.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="TyC Sports HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png",TyC Sports HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1143.m3u8
+#EXTINF:-1 group-title="Deportes",ENC7 - TNT SPORT HD
+http://190.128.214.97:64333/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT SPORTS
+http://45.173.231.22:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports Premium
+http://45.173.231.22:8000/play/a0ad/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports Premiun HD
+http://45.188.229.33:8000/play/a137/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNTSPORT PREMIUM
+http://200.115.120.1:8000/play/ca040/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="TNT Sports | Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tnt-sports-lam.png",TNT Sports Argentina (Op. Club)
+#EXTINF:-1 group-title="Deportes",ENC3 - ESPN PREMIUM
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-premium-lam.png",ESPN Premium HD (Op. Club)
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a04z.png",7 FOX SPORTS (premium)
+http://45.5.117.57:8200/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-premium-lam.png",Fox Sports Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/461.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-premium-lam.png",Fox Sports Premium HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/463.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports Premium HD Opcion 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-premium-lam.png",Fox Sports Premium HD Opcion 2
+#EXTINF:-1 group-title="Deportes",00 DIRECTV SPORTS
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1 group-title="Deportes",directv sport
+http://38.224.231.176:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Deportes",00 - DirecTV Sports
+http://38.56.111.14:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="Deportes",D SPORT +
+http://38.199.5.160:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="Deportes",D-SPORT
+http://181.78.82.130:8000/play/a0r5/index.m3u8
+#EXTINF:-1 group-title="Deportes",D-SPORT 2
+http://181.78.82.130:8000/play/a0r4/index.m3u8
+#EXTINF:-1 group-title="Deportes",D_SPORT_2
+http://38.210.105.10:8000/play/a0j5/index.m3u8
+#EXTINF:-1 group-title="Deportes",DS SPORTS URUGUAY PREMIU
+http://186.33.57.100:8000/play/a2o3/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSports HD Opcion 1
+http://181.209.80.115:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSports 1 HD (ar)
+http://200.123.40.1:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSports 2 HD Opcion 1
+http://181.209.80.115:8000/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSports 2 HD (ar)
+http://200.123.40.1:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",DSports (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/312.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="DSports +" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-plus-lam.png",DSports + (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/314.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="DSports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports2-lam.png",DSports 2 (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/315.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="DSports 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports2-lam.png",DSports 2 HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/317.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="DSports HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",DSports HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/324.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="DSports HD Opcion 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",DSports HD Opcion 2 (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1144.m3u8
+#EXTINF:-1 group-title="Deportes",DeporTV Opcion 1
+http://181.209.80.115:8000/play/a06h/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/934.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="TNT Sports | Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tnt-sports-lam.png",TNT Sports Chile (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/938.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN
+http://45.173.231.22:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 1 | Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",ESPN 1 Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1132.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 1 | Sur" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",ESPN 1 Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/368.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",ESPN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/400.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN (Ahorro de Datos)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-extra-lam.png",ESPN (Ahorro de Datos)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/QT_RsUTe/1113.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://190.128.214.97:64333/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Deportes",ENC2 - ESPN 2 CO.
+http://190.128.214.97:64333/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN2 HD
+http://181.224.255.210:8001/play/a0oj/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/375.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 2 | Sur" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/372.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3
+http://45.173.231.22:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN3 HD
+http://181.224.255.210:8001/play/a0ps/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3 HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/386.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 3 | Sur" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3 Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1127.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN  4 HD Opcion 2
+http://38.224.231.176:8000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4HD
+http://186.33.57.100:8000/play/a1rn/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN4 HD
+http://181.224.255.210:8001/play/a0og/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 4 | Sur" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-4-lam.png",ESPN 4 Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1069.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 5 HD
+http://45.185.11.126:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 5HD
+http://186.33.57.100:8000/play/a1vh/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN5 HD
+http://181.224.255.210:8001/play/a0pr/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-5-lam.png",ESPN 5 HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1104.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 6
+http://45.173.231.22:8000/play/a096/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 6HD
+http://190.108.83.69:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN6 HD
+http://181.224.255.210:8001/play/a0eq/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-6-lam.png",ESPN 6 HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1105.m3u8
+#EXTINF:-1 group-title="Deportes",ENC5 - ESPN 7
+http://190.128.214.97:64333/play/a039/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 7HD
+http://186.33.57.100:8000/play/a1a5/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN7 HD
+http://181.224.255.210:8001/play/a0m5/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-7-lam.png",ESPN 7 HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1106.m3u8
+#EXTINF:-1 group-title="Deportes",E4 ESPN CO
+http://190.128.214.97:64333/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 1 | Colombia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",ESPN 1 Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1107.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN HD | COLOMBIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",ESPN HD Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1161.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 1 | Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",ESPN 1 Chile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1111.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 1 | Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",ESPN 1 Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/401.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 2 | Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/378.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN 3 | Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3 Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1110.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png",ESPN Deportes USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1165.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-extra-lam.png",ESPN Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/404.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="ESPN Plus HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-extra-lam.png",ESPN Plus HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/405.m3u8
+#EXTINF:-1 group-title="Deportes",espn extra
+http://38.65.175.84:8000/play/a0kf/index.m3u8
+#EXTINF:-1 group-title="Deportes",00 - ESPN PERU HD
+http://181.224.255.210:8001/play/a0sa/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/408.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sport
+http://200.115.120.1:8000/play/ca041/index.m3u8
+#EXTINF:-1 group-title="Deportes",ENC4 - FOX SPORTS
+http://190.128.214.97:64333/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 1 HD
+http://200.123.40.1:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-lam.png",Fox Sports HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/454.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports Sur" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-lam.png",Fox Sports Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/465.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports 1 | HD Sur" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-1-lam.png",Fox Sports 1 HD Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/452.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports 1 | Sur" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-1-lam.png",Fox Sports 1 Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/435.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports 1 | Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-1-lam.png",Fox Sports 1 Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/456.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 HD Opcion 1
+http://158.172.155.130:8000/play/a0dt/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a058.png",FOX SPORTS 2 / TELEMUNDO MIAMI
+http://45.5.117.57:8200/play/a058/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports 2 | HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-2-lam.png",Fox Sports 2 HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/439.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports 2 | HD Sur" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-2-lam.png",Fox Sports 2 HD Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/cH9iugEk/438.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports 2 | Sur" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-2-lam.png",Fox Sports 2 Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/436.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports 2 | Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-2-lam.png",Fox Sports 2 Chile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1123.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports 2 | Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-2-lam.png",Fox Sports 2 Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/441.m3u8
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 3
+http://200.115.120.1:8000/play/ca150/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports 3 | HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-3-lam.png",Fox Sports 3 HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/446.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports 3 | Sur" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-3-lam.png",Fox Sports 3 Sur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/468.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Fox Sports 3 | Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-3-lam.png",Fox Sports 3 Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/448.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/KtMxQzuk/464.m3u8
+#EXTINF:-1 group-title="Deportes",AMERICA SPORT TV
+http://45.179.152.42:8000/play/a03f
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a04w.png",4 FUTBOL NACIONAL
+http://45.5.117.57:8200/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Deportes",Futbol Total
+http://138.59.227.20:8000/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a050.png",8 LA LIGA
+http://45.5.117.57:8200/play/a050/index.m3u8
+#EXTINF:-1 group-title="Deportes",DAZN LA LIGA
+http://200.115.120.1:8000/play/ca081/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0f2.png",SKY LIGA ALEMANA
+http://45.5.117.57:8200/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="Deportes",SKYSPORT
+http://200.115.120.1:8000/play/ca82266/index.m3u8
+#EXTINF:-1 group-title="Deportes",CLARO SPORT
+http://38.65.175.84:8000/play/a0cm/index.m3u8
+#EXTINF:-1 group-title="Deportes",Claro Sports
+http://45.173.231.22:8000/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a05m.png",Claro Sports 1 HD
+http://45.5.117.57:8200/play/a05m/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a05n.png",Claro Sports 2 HD
+http://45.5.117.57:8200/play/a05n/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a02a.png",Claro Sports 2 SD / TUDN USA
+http://45.5.117.57:8200/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Deportes",EUROS PORT 1
+http://200.115.120.1:8000/play/ca042/index.m3u8
+#EXTINF:-1 group-title="Deportes",EUROSPORT2
+http://200.115.120.1:8000/play/ca119/index.m3u8
+#EXTINF:-1 group-title="Deportes",NBA
+http://38.65.175.84:8000/play/a0kj/index.m3u8
+#EXTINF:-1 group-title="Deportes",FIGTH BOX
+http://38.65.175.84:8000/play/a0kr/index.m3u8
+#EXTINF:-1 group-title="Deportes",Combate HD
+http://45.185.11.126:8000/play/a073/index.m3u8
+#EXTINF:-1 group-title="Deportes",TUDN
+http://200.115.120.1:8000/play/ca039/index.m3u8
+#EXTINF:-1 group-title="Deportes",UCL
+http://38.199.5.160:8000/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a03a.png",Tigo Sports HD
+http://45.5.117.57:8200/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Deportes",TIGO SPORTS HD  2
+http://186.33.57.100:8000/play/a27r/index.m3u8
+#EXTINF:-1 group-title="Deportes",TIGO SPORTS HD 3
+http://186.33.57.100:8000/play/a2dt/index.m3u8
+#EXTINF:-1 group-title="Deportes",TIGO SPORTS HD  BOLIVIA
+http://186.33.57.100:8000/play/a1vl/index.m3u8
+#EXTINF:-1 group-title="Deportes",sportv HD
+http://45.185.11.126:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Deportes",sportv2 HD
+http://45.185.11.126:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Deportes",sportv3 HD
+http://45.185.11.126:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="Deportes",Premiere 2 HD
+http://45.185.11.126:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="Deportes",Premiere 3 HD
+http://45.185.11.126:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="Deportes",Premiere 4 HD
+http://45.185.11.126:8000/play/a07b/index.m3u8
+#EXTINF:-1 group-title="Deportes",Premiere 5 HD
+http://45.185.11.126:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="Deportes",Premiere 6 HD
+http://45.185.11.126:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="Deportes",Premiere 7 HD
+http://45.185.11.126:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Deportes",Premiere 8 HD
+http://45.185.11.126:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="Deportes",Premiere Clubes HD
+http://45.185.11.126:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="Deportes",Liga UNO MAX
+http://181.224.255.210:8001/play/a0t2/index.m3u8
+#EXTINF:-1 group-title="Deportes",Liga UNO OFICIAL
+http://181.224.255.210:8001/play/a0t1/index.m3u8
+#EXTINF:-1 group-title="Deportes",LIGA1
+http://38.199.5.160:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Deportes",0281 Movistar Deportes
+http://38.56.111.14:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="Deportes",ENTEL  2 FUTBOL HD
+http://186.33.57.100:8000/play/a2il/index.m3u8
+#EXTINF:-1 group-title="Deportes",FUTV CR
+http://38.224.231.176:8000/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0f7.png",Deportes TVC - HND
+http://45.5.117.57:8200/play/a0f7/index.m3u8
+#EXTINF:-1 group-title="Deportes",TVC DEPORTES +
+http://200.115.120.1:8000/play/ca069/index.m3u8
+#EXTINF:-1 group-title="Deportes",TVCD
+http://38.65.175.84:8000/play/a0kl/index.m3u8
+#EXTINF:-1 group-title="Deportes",Win
 http://45.173.231.22:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="-",WIN  SPORTS HD
+#EXTINF:-1 group-title="Deportes",WIN  SPORTS HD
 http://186.33.57.100:8000/play/a14s/index.m3u8
-#EXTINF:-1,Win Sports+ HD
-http://181.78.82.130:8000/play/a0ds/index.m3u8
-#EXTINF:-1 group-title="-",ZTV
-http://38.210.105.10:8000/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="Deportes",Eventos 1 HD (ar)
+http://200.123.40.1:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="Deportes",Eventos 2 HD (ar)
+http://200.123.40.1:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Deportes",EVENTOS DEPORTIVOS
+http://200.115.120.1:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="Eventos",Eventos [Telefe Op 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1131.m3u8
+#EXTINF:-1 group-title="Deportes",E_SPORTS_MAX_MIC
+http://38.210.105.10:8000/play/Rin/index.m3u8
+#EXTINF:-1 group-title="Deportes",Esport Max
+http://38.224.231.176:8000/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPORT_GO_MIC
+http://38.210.105.10:8000/play/GFHDF/index.m3u8
+#EXTINF:-1 group-title="Deportes",warzone
+http://200.123.40.1:8000/play/a060/index.m3u8
+
+# ==========================================
+# CINE Y SERIES
+# ==========================================
+#EXTINF:-1 group-title="Cine y Series",CINE AR  / IRD T 5
+http://45.179.152.42:8000/play/a003
+#EXTINF:-1 group-title="Cine y Series",Cine.AR
+http://181.209.80.115:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",CINE CANAL
+http://45.179.152.42:8000/play/a002
+#EXTINF:-1 group-title="Cine y Series",2ENC1 - CINECANAL
+http://190.128.214.97:64333/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Cine Familiar HD
+http://181.78.82.130:8000/play/a0ro/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",CINE LATINO
+http://200.115.120.1:8000/play/ca029/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",CINE_LATINO_MIC
+http://38.210.105.10:8000/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0gp.png",CINE PREMIUM
+http://45.5.117.57:8200/play/a0gp/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",CINECLICK
+http://200.115.120.1:8000/play/ca051/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Cinema Platino
+http://200.115.120.1:8000/play/ca130/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Cinemax
+http://45.173.231.22:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Claro Cinema
+http://45.173.231.22:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",CREO MOVIES
+http://200.123.40.1:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",De Pelicula
+http://45.188.229.33:8000/play/a1j2/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",EURO CHANEL
+http://200.115.120.1:8000/play/ca331/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a026.png",EURO Channel
+http://45.5.117.57:8200/play/a026/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",EUROPA
+http://38.65.175.84:8000/play/a0k6/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Europa Europa
+http://45.173.231.22:8000/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Film & Arts
+http://200.115.120.1:8000/play/ca131/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Film&Arts
+http://45.188.229.33:8000/play/a0xr/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",FMH_MOVIES
+http://38.210.105.10:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Megapix HD
+http://45.185.11.126:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",MULTI PREMIER
+http://38.65.175.84:8000/play/a0cp/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",MULTICINEMA
+http://200.115.120.1:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",MULTIPREMIER
+http://200.115.120.1:8000/play/ca026/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",OLD MOVIES
+http://200.123.40.1:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",SCARE MOVIES
+http://200.123.40.1:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",E16 HBO
+http://190.128.214.97:64333/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO 1
+http://200.123.40.1:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",00- HBO 2 HD
+http://38.56.111.14:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO2 HD
+http://45.185.11.126:8000/play/a08o/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO Family
+http://45.173.231.22:8000/play/a0ai/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO Mundi
+http://45.173.231.22:8000/play/a0a1/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO Plus
+http://45.173.231.22:8000/play/a0d2/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO+ HD
+http://45.185.11.126:8000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO POP
+http://158.172.155.130:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO Signative
+http://200.115.120.1:8000/play/ca139/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO Signature
+http://45.173.231.22:8000/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO XTREME HD
+http://45.185.11.126:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Universal
+http://45.173.231.22:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Universal TV HD
+http://45.185.11.126:8000/play/a0af/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",00 - Universal Cinema HD
+http://38.56.111.14:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a04s.png",UNIVERSAL CINEMA ESTE HD
+http://45.5.117.57:8200/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",00 - Universal Comedy HD
+http://38.56.111.14:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",00 - Universal Crime HD
+http://38.56.111.14:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",00 - Universal Premiere HD
+http://38.56.111.14:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a03j.png",UNIVERSAL PREMIERE O HD
+http://45.5.117.57:8200/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",00 - Universal Reality HD
+http://38.56.111.14:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Studio Universal
+http://190.128.214.97:64333/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",A3SERIES
+http://200.115.120.1:8000/play/ca0101/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-name="A3 Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/atreseries-es.png",Atreseries (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/17.m3u8
+#EXTINF:-1 group-title="Cine y Series",A&E HD
+http://45.173.231.22:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",1838 AE HD
+http://38.56.111.14:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",AE Mundo
+http://45.173.231.22:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",AMC
+http://45.188.229.33:8000/play/a1jn/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",AMC Series
+http://45.173.231.22:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",AXN
+http://45.173.231.22:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",AXN Latin America - p
+http://190.128.214.97:64333/play/a071/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Canal Sony HD
+http://45.185.11.126:8000/play/a0an/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Sony
+http://45.173.231.22:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",SONY - OK
+http://158.172.155.130:8000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",SONY CHANNEL HD
+http://190.108.83.69:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",00 - SONY MOVIES HD
+http://38.56.111.14:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",2ENC2 - SPACE HD
+http://190.128.214.97:64333/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",fox channel
+http://38.65.175.84:8000/play/a08v/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0hg.png",FOX NIC
+http://45.5.117.57:8200/play/a0hg/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",2ENC4 - STAR CHANNEL
+http://190.128.214.97:64333/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",ST☆R CHANNEL
+http://181.78.82.130:8000/play/a0rg/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01u.png",Star TVE HD
+http://45.5.117.57:8200/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-name="StarTVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-1-es.png",StarTVE (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/838.m3u8
+#EXTINF:-1 group-title="Cine y Series",ENC8 - TNT HD
+http://190.128.214.97:64333/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",TNT Novelas
+http://45.173.231.22:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",TNT Series HD
+http://45.173.231.22:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",USA
+http://45.173.231.22:8000/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",USA NETWORK
+http://200.115.120.1:8000/play/ca151/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Warner
+http://45.188.229.33:8000/play/a18o/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Warner Channel
+http://45.173.231.22:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Warner TV HD
+http://45.173.231.22:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",00 - Lifetime
+http://181.224.255.210:8001/play/a0q6/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",I- SAAT
+http://200.115.120.1:8000/play/ca068/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Comedy Central
+http://45.188.229.33:8000/play/a12k/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Distrito Comedia
+http://45.173.231.22:8000/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="Cine y Series" tvg-name="Distrito Comedia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/distrito-comedia-lam.png",Distrito Comedia (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/293.m3u8
+#EXTINF:-1 group-title="Cine y Series",CLASSIC_+_MIC
+http://38.210.105.10:8000/play/a0au/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",CLASSIC_SERIES_MIC
+http://38.210.105.10:8000/play/a0at/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",CLASSIC_WESTERN_MIC
+http://38.210.105.10:8000/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",WEST
+http://181.224.255.210:8001/play/a0rq/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HERO MAX
+http://200.123.40.1:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",EPICRISE
+http://200.123.40.1:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",FMH Family
+http://38.210.105.10:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",DOBLE_C
+http://38.210.105.10:8000/play/a0jd/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",ENT Channel
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cine y Series",ENT Classics
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Cine y Series",ENT Comedy
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Cine y Series",ENT Drama
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Cine y Series",ENT Family
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cine y Series",ENT Movies
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Cine y Series",ENT Life
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Cine y Series",ENT Extreme
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+# ==========================================
+# CINE - CANALES TEMÁTICOS
+# ==========================================
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine 2024" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine 2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1099.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine 2025" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1159.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1180.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Accion" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Accion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/157.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Accion HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Accion HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/158.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Accion Sagas HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Accion Sagas HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/160.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Comedia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Comedia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/161.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Comedia 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Comedia 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/162.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Comedia 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Comedia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/163.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Comedia 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Comedia 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/164.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Terror HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Terror HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/181.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Terror Sagas HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Terror Sagas HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/0uTjbnJb/182.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Zombis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Zombis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/183.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Zombis HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Zombis HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/184.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Ficcion/Fantasia 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Ficcion/Fantasia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/166.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Ficcion/Fantasia 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Ficcion/Fantasia 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/167.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Ficcion/Fantasia HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Ficcion/Fantasia HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/168.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/178.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Romance HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Romance HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/179.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Marvel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Marvel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/176.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Marvel HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Marvel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/177.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Infantil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/169.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Infantil HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Infantil HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/170.m3u8
+#EXTINF:-1 group-title="Cine - Canales Temáticos" tvg-name="Cine Infantil Sagas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png",Cine Infantil Sagas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/171.m3u8
+
+# ==========================================
+# 24/7 - SERIES Y CLÁSICOS
+# ==========================================
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="El Chavo del 8",El Chavo del 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/344.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="El Chavo del 8 HD",El Chavo del 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1173.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Chapulin Colorado 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Chapulin Colorado 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/152.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Chespirito 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Chespirito 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/153.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Cantiflas 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Cantinflas 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/123.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Los 3 Chiflados 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Los 3 Chiflados 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/619.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="La Familia Monster 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",La Familia Monster 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/BcqxbI5Q/591.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Mr.Bean 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Mr. Bean 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/670.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Friends 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Friends 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/470.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Malcolm 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Malcolm in the Middle 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/640.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Malcom HD 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Malcolm in the Middle HD 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/641.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="The Big Bang Theory 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",The Big Bang Theory 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/899.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Two And a Half Men 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Two And a Half Men 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/973.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="El Principe del Rap 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",El Principe del Rap 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/357.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Los Años Maravillosos 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Los Años Maravillosos 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/h1Nu5phr/621.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Nosotros Los Guapos 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Nosotros Los Guapos 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/739.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="La Hora Pico 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",La Hora Pico 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/mbtfMF0Q/593.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Series Comedia 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Series Comedia 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/LDtGK8dg/807.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Breaking Bad 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Breaking Bad 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/R7AqYREI/98.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Dr. House 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Dr. House 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/tPr3lrSj/299.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Game of Thrones 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Game of Thrones 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/484.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Los Expedientes Secretos X 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",The X-Files 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/623.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Smallville 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Smallville 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/812.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Supernatural 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Supernatural 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/NLQIpBWv/851.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Elementary 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Elementary 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/363.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Gres Anatomy 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Grey's Anatomy 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/P9WCAnem/505.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Fear The Walking Dead 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Fear The Walking Dead 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/UjDl4JP2/415.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Le temes a la oscuridad 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Le temes a la oscuridad 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/f7acnVDt/611.m3u8
+#EXTINF:-1 group-title="24/7 - Series y Clásicos" tvg-name="Caso Cerrado 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png",Caso Cerrado 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/138.m3u8
+
+
+# ==========================================
+# DOCUMENTALES Y VARIEDADES
+# ==========================================
+#EXTINF:-1 group-title="Documentales y Variedades",Animal Planet
+http://45.173.231.22:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/animal-planet-ar.png",Animal Planet (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/41.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",DICOVERY CHANNEL
+http://38.65.175.84:8000/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Discovery HD-AR-OK
+http://158.172.155.130:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Discovery Channel  HD
+http://45.173.231.22:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-channel-ar.png",Discovery Channel (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/247.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="Discovery Civilization",Discovery Civilization
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/252.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",DISCOVERY FAMILY
+http://200.115.120.1:8000/play/ca053/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Discovery H&H
+http://45.173.231.22:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a03x.png",Discovery Home & Health
+http://45.5.117.57:8200/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",HOME & HEALTH
+http://200.115.120.1:8000/play/ca115/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Home and Health
+http://45.173.231.22:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="Discovery H&H" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png",Discovery H&H (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/254.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Discovery ID
+http://200.115.120.1:8000/play/ca056/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/id-investigation-discovery-ar.png",Investigation Discovery (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/579.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Discovery Science
+http://45.173.231.22:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="Discovery SCI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-science-ar.png",Discovery Science (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/267.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",DISC THEATHER HD
+http://38.224.231.176:8000/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",DISCOVERY THEATER
+http://200.115.120.1:8000/play/ca336/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a03d.png",DISCOVERY THEATHER HD
+http://45.5.117.57:8200/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-theater-hd-ar.png",Discovery Theater HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/271.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Discovery Turbo
+http://45.173.231.22:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-turbo-ar.png",Discovery Turbo (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/274.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Discovery World HD
+http://45.185.11.126:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="Discovery World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-hd-ar.png",Discovery World HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/276.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Nat Geo
+http://45.188.229.33:8000/play/a1ar/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",NATGEO
+http://200.115.120.1:8000/play/ca155/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",H3E1 - NATIONAL GEOGRAPHIC
+http://190.128.214.97:64333/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/national-geographic-ar.png",National Geographic (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/703.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/national-geographic-wild-ar.png",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/709.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",HISTORY
+http://181.78.82.130:8000/play/a0ls/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",History 1 HD
+http://200.123.40.1:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",History 2
+http://45.173.231.22:8000/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="H2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/history-channel-2-ar.png",History 2 (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/509.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",History Channel
+http://45.173.231.22:8000/play/a0at/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",The History Channel HD Opcion 1
+http://158.172.155.130:8000/play/a0dy/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/history-channel-ar.png",History Channel HD (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/558.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",PLANETA_SALVAJE_PRUEBA_MIC
+http://38.210.105.10:8000/play/a0j2/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",El Gourmet
+http://45.173.231.22:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",GOURMET
+http://38.65.175.84:8000/play/a0k7/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Gourmet T
+http://38.65.175.84:8000/play/a0o4/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",FOOD NETWORK
+http://200.115.120.1:8000/play/ca032/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Travel Food & Drinks HD
+http://45.185.11.126:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",MUNDO_DE_CAMPO_MIC
+http://38.210.105.10:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",E Entertainment
+http://45.173.231.22:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a02v.png",E!
+http://45.5.117.57:8200/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",E! Entertainment
+http://45.188.229.33:8000/play/a1ap/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",00 - E! Entertainment TV
+http://181.224.255.210:8001/play/a0q3/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01k.png",E! Entertairment HD
+http://45.5.117.57:8200/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",CLICK HD
+http://38.65.175.84:8000/play/a0mh/index.m3u8
+#EXTINF:-1 group-title="Documentales y Variedades",Clover
+http://45.188.229.33:8000/play/a1ka/index.m3u8
+
+# ==========================================
+# NOTICIAS
+# ==========================================
+#EXTINF:-1 group-title="Noticias",TN HD
+http://45.188.229.33:8000/play/a1ax/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-name="Todo Noticias (TN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tn-todo-noticias-ar.png",Todo Noticias (TN Oficial)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1 group-title="Noticias",A24
+http://138.59.227.20:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a24-ar.png",A24 (Op. 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://45.134.141.161:2200/ARG/A24/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/c5n-ar.png",C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://45.134.141.161:2200/ARG/C5N/index.m3u8
+#EXTINF:-1 group-title="Noticias",Cronica
+http://181.209.80.115:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Noticias",CRONICA / IRD T 5
+http://45.179.152.42:8000/play/a03b
+#EXTINF:-1 group-title="Noticias",La Nacion TV
+http://181.209.80.115:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Noticias",C9N
+http://45.173.231.22:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Noticias",C9N Digital
+http://138.59.227.20:8000/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="Noticias",CABLE NOTICIAS
+http://181.78.82.130:8000/play/a0rz/index.m3u8
+#EXTINF:-1 group-title="Noticias",CABLENOTICIAS HD
+http://186.33.57.100:8000/play/a27o/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN Chile
+http://45.173.231.22:8000/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN en Español Opcion 1
+http://158.172.155.130:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a019.png",CNN EN ESPAÑOL
+http://45.5.117.57:8200/play/a019/index.m3u8
+#EXTINF:-1 group-title="Noticias",Cnn Esp
+http://190.128.214.97:64333/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN Español
+http://45.173.231.22:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN Espanol
+http://45.173.231.22:8000/play/a0a7/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN español
+http://200.115.120.1:8000/play/ca044/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNNE
+http://38.224.231.176:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN Ingles
+http://200.115.120.1:8000/play/ca045/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN Internacional
+http://38.224.231.176:8000/play/a091/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN International
+http://181.224.255.210:8001/play/a0px/index.m3u8
+#EXTINF:-1 group-title="Noticias",BBC News
+http://45.188.229.33:8000/play/a1e9/index.m3u8
+#EXTINF:-1 group-title="Noticias",BBC World
+http://190.108.83.69:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Noticias",FOX NEWS
+http://200.115.120.1:8000/play/ca124/index.m3u8
+#EXTINF:-1 group-title="Noticias",France 24
+http://45.173.231.22:8000/play/a0a3/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01b.png",France24
+http://45.5.117.57:8200/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Noticias",RT
+http://186.33.57.100:8000/play/a2sl/index.m3u8
+#EXTINF:-1 group-title="Noticias",RT en Español
+http://45.188.229.33:8000/play/a1co/index.m3u8
+#EXTINF:-1 group-title="Noticias",RT en Español
+http://177.53.153.207:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Noticias",RT ESPANOL
+http://190.108.80.138:8000/play/a0j5/index.m3u8
+#EXTINF:-1 group-title="Noticias",00 - RPP HD
+http://38.56.111.14:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="Noticias",TN23
+http://200.115.120.1:8000/play/ca104/index.m3u8
+#EXTINF:-1 group-title="Noticias",RNN - RD
+http://38.224.231.176:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="Noticias",FORMULA NOTICIAS
+http://38.65.175.84:8000/play/a0be/index.m3u8
+#EXTINF:-1 group-title="Noticias",HCH- HON
+http://38.224.231.176:8000/play/a09w/index.m3u8
+#EXTINF:-1 group-title="Noticias",Movistar Informa
+http://45.188.229.33:8000/play/a1ew/index.m3u8
+#EXTINF:-1 group-title="Noticias",TIMES | EXCLUSIVO CNBC
+http://45.185.11.126:8000/play/a0a5/index.m3u8
+
+# ==========================================
+# INFANTILES
+# ==========================================
+#EXTINF:-1 group-title="Infantiles" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/baby-tv-ar.png",Baby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/79.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/128.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cartoonito-lam.png",Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/134.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="CBeebies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png",CBeebies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/vsLJmFR2/139.m3u8
+#EXTINF:-1 group-title="Infantiles",Discovery Kids
+http://45.173.231.22:8000/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",Discovery Kids (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/264.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a03u.png",Disney
+http://45.5.117.57:8200/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Channel HD
+http://45.173.231.22:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Channel - OK
+http://158.172.155.130:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png",Disney Channel (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/280.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Jr
+http://45.173.231.22:8000/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Jr. Opcion 1
+http://181.224.255.210:8001/play/a0ny/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Junior Opcion 1
+http://45.188.229.33:8000/play/a0k4/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-jr-ar.png",Disney Junior (Op. Club)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/284.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-xd-ar.png",Disney XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/5761zf05/289.m3u8
+#EXTINF:-1 group-title="Infantiles",DREAMWORK
+http://200.115.120.1:8000/play/ca005/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0e8.png",CLAN
+http://45.5.117.57:8200/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/736.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="Nick JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nick-jr-ar.png",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/729.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="Nick Toons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png",Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/735.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png",TeenNick
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/Ur34DxGJ/865.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tooncast-ar.png",Tooncast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/941.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="PakaPaka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/pakapaka-ar.png",Pakapaka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/748.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-name="Tiin",Tiin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/R-1TwjEF/907.m3u8
+
+# ==========================================
+# MUSICA
+# ==========================================
+#EXTINF:-1 group-title="Musica",BANDAMAX
+http://200.115.120.1:8000/play/ca84/index.m3u8
+#EXTINF:-1 group-title="Musica",Classic Rock Roll
+http://45.188.229.33:8000/play/a1jc/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a043.png",Concert Channel
+http://45.5.117.57:8200/play/a043/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a033.png",Exa TV
+http://45.5.117.57:8200/play/a033/index.m3u8
+#EXTINF:-1 group-title="Musica",HTV
+http://45.173.231.22:8000/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="Musica",HEI
+http://190.128.214.97:64333/play/a075/index.m3u8
+#EXTINF:-1 group-title="Musica",MIX
+http://38.210.105.10:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="Musica",MIX_MUSIC_CHANNEL_MIC
+http://38.210.105.10:8000/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="Musica",MTV
+http://45.173.231.22:8000/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="Musica",MTV×00 Opcion 1
+http://158.172.155.130:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="Musica",Music Top | AR
+http://190.128.214.97:64333/play/a06o/index.m3u8
+#EXTINF:-1 group-title="Musica",ROCKANDPOP TV
+http://190.128.214.97:64333/play/a032/index.m3u8
+#EXTINF:-1 group-title="Musica",RQP HD
+http://190.128.214.97:64333/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Musica",00 - Stingray Concerts HD
+http://181.224.255.210:8001/play/a0pu/index.m3u8
+#EXTINF:-1 group-title="Musica",Trace Brasil HD
+http://45.185.11.126:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="Musica",Multishow HD
+http://45.185.11.126:8000/play/a07a/index.m3u8
+
+# ==========================================
+# CANALES GENERALISTAS E INTERNACIONALES
+# ==========================================
+#EXTINF:-1 group-title="Internacionales",ABC TV
+http://138.59.227.20:8000/play/a0g6/index.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0e6.png",A+ GUA
+http://45.5.117.57:8200/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="Internacionales",Cadena A HD
+http://158.172.155.130:8000/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="Internacionales",Canal TUVES
+http://45.188.229.33:8000/play/a1le/index.m3u8
+#EXTINF:-1 group-title="Internacionales",Canal Uno
+http://45.173.231.22:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Internacionales",Canal UOL HD
+http://45.185.11.126:8000/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="Internacionales",City TV
+http://45.173.231.22:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Internacionales",Claro TV+ 4K
+http://45.185.11.126:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0fo.png",CNT
+http://45.5.117.57:8200/play/a0fo/index.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a02q.png",Color Vision 9 - RD
+http://45.5.117.57:8200/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Internacionales",Cosmos HD
+http://138.59.227.20:8000/play/a0ek/index.m3u8
+#EXTINF:-1 group-title="Internacionales",Dismar TV | PY
+http://190.128.214.97:64333/play/a06p/index.m3u8
+#EXTINF:-1 group-title="Internacionales",T13 en vivo
+http://200.123.40.1:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="Internacionales",La Red
+http://45.173.231.22:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="Internacionales",La Red 2
+http://200.123.40.1:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="Internacionales",La Tele
+http://45.173.231.22:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Internacionales",Mega
+http://45.173.231.22:8000/play/a0aa/index.m3u8
+#EXTINF:-1 group-title="Internacionales",Mega 2 HD
+http://186.33.57.100:8000/play/a2q5/index.m3u8
+#EXTINF:-1 group-title="Internacionales",MEGA TV
+http://190.128.214.97:64333/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-name="Chilevision (CHV) | Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/chile/chilevision-de-culto-cl.png",Chilevision (CHV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/155.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-name="El Trece (13) Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/chile/canal13-cl.png",Canal 13 Chile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/360.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png",Las Estrellas Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/118.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/antena-3-es.png",Antena 3 Espana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/45.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-name="La 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-1-es.png",La 1 HD Espana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/588.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-name="La 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-2-es.png",La 2 HD Espana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/589.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-name="Mega ES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mega-es.png",Mega Espana HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/653.m3u8
+#EXTINF:-1 group-title="Internacionales",TVE
+http://45.173.231.22:8000/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-name="TVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-1-es.png",TVE (Op. 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/j_ZNdRlO/968.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-name="TVE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-1-es.png",TVE HD (Op. 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://tv.m3uts.xyz/stream/secure/_c_KJLm8/969.m3u8
+#EXTINF:-1 group-title="Internacionales",Monumental Hd Asu
+http://190.128.214.97:64333/play/a046/index.m3u8
+#EXTINF:-1 group-title="Internacionales",MULTICANAL
+http://38.65.175.84:8000/play/a0lo/index.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a05i.png",Multimedios
+http://45.5.117.57:8200/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Internacionales",NATIVA
+http://190.108.80.138:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="Internacionales",NBC
+http://200.115.120.1:8000/play/ca360/index.m3u8
+#EXTINF:-1 group-title="Internacionales",RAI Italia
+http://181.209.80.115:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Internacionales",RPC Digital
+http://138.59.227.20:8000/play/a0e3/index.m3u8
+#EXTINF:-1 group-title="Internacionales",TRO
+http://45.173.231.22:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Internacionales",TV+ HD
+http://200.123.40.1:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="Internacionales",12661 TVC
+http://38.65.175.84:8000/play/a0bf/index.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0gh.png",TVChile
+http://45.5.117.57:8200/play/a0gh/index.m3u8
+#EXTINF:-1 group-title="Internacionales",TVMAS2
+http://200.123.40.1:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="Internacionales",TVN
+http://45.188.229.33:8000/play/a0tq/index.m3u8
+#EXTINF:-1 group-title="Internacionales",UNIVISION
+http://200.115.120.1:8000/play/ca372/index.m3u8
+#EXTINF:-1 group-title="Internacionales",URBANA TV HD
+http://190.128.214.97:64333/play/a04k/index.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a0fy.png",URPLAY
+http://45.5.117.57:8200/play/a0fy/index.m3u8
 
