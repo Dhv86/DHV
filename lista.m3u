@@ -20,7 +20,7 @@ http://200.115.120.1:8000/play/ca0101/index.m3u8
 #EXTINF:-1 group-title="-",ABC TV
 http://138.59.227.20:8000/play/a0g6/index.m3u8
 #EXTINF:-1 group-title="-",ADULTOS
-0http://200.115.120.1:8000/play/ca99/index.m3u8
+http://200.115.120.1:8000/play/ca99/index.m3u8
 #EXTINF:-1 group-title="-",1838 AE HD
 http://38.56.111.14:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="-",AE Mundo
@@ -52,7 +52,7 @@ http://181.224.255.210:8001/play/a0fv/index.m3u8
 #EXTINF:-1 group-title="-",BETHEL TV
 http://45.173.231.22:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="-",BRAZZERS TV
-0http://200.115.120.1:8000/play/ca98/index.m3u8
+http://200.115.120.1:8000/play/ca98/index.m3u8
 http://181.209.80.115:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="-",C9N
 http://45.173.231.22:8000/play/a00h/index.m3u8
@@ -964,9 +964,9 @@ http://200.115.120.1:8000/play/ca151/index.m3u8
 #EXTINF:-1 group-title="-",Vea canal
 http://200.115.120.1:8000/play/ca087/index.m3u8
 #EXTINF:-1,Venus
-0http://45.188.229.33:8000/play/a1k2/index.m3u8
+http://45.188.229.33:8000/play/a1k2/index.m3u8
 #EXTINF:-1 group-title="-",Venus Tv
-0http://190.128.214.97:64333/play/a00n/index.m3u8
+http://190.128.214.97:64333/play/a00n/index.m3u8
 #EXTINF:-1 group-title="-",Volver
 http://181.209.80.115:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="-",VTV Canal 35 ESA
